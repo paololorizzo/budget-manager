@@ -13,7 +13,7 @@ import {
 
 export default function AccountPage() {
   return (
-    <ContentLayout title="Account">
+    <ContentLayout active="Account">
       <Breadcrumb>
         <BreadcrumbList>
           <BreadcrumbItem>
